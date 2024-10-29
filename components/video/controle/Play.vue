@@ -1,5 +1,0 @@
-<template>
-  <IconPlay />
-  Play
-</template>
-
